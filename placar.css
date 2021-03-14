@@ -1,0 +1,16 @@
+body {
+    background: rgb(70, 142, 236); /*cor de fundo*/
+    font: normal 15pt Arial;
+}
+h1 {
+    text-align: center;
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(211, 19, 19), rgb(0, 162, 255), rgb(204, 91, 109), rgb(165, 8, 34), rgb(219, 48, 71), rgb(214, 192, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+header {
+    color: white;   /*cor do que esta escrito na div*/
+    text-align: center; /*alinhar*/
+}
